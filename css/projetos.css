@@ -23,7 +23,7 @@ html {
 }
 
 /* First border-left-width setting is a fallback */
-.card-custom-img::after {
+/*.card-custom-img::after {
   position: fixed;
   content: '';
   top: 161px;
@@ -40,7 +40,7 @@ html {
   border-right-color: transparent;
   border-bottom-color: transparent;
   border-left-color: inherit;
-}
+}*/
 
 .card-custom-avatar img {
   border-radius: 50%;
